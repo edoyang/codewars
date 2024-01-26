@@ -1,0 +1,1 @@
+const getMiddle = (x) => {return x.length % 2 === 0 ? "its even" : "its odd";};  

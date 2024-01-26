@@ -1,0 +1,1 @@
+const numberToString = (number) => String(number);
